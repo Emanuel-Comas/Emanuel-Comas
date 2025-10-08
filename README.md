@@ -1,3 +1,5 @@
+## About me
+
 <p align="left">Hi there 👋</p>
 <p align="left">I´m a developer with an interest in Cybersegurity, Linux, and automation with Bash and Python.</p>
 <p align="left">Am currently training and Working on personal projects to continue learning and growing in the IT field.</p>
@@ -20,8 +22,8 @@ Python | Desarrollo web | Express | Node | SQL | Docker | Linux | CTF | SOC
 
 ## Contact
 
-- [ LinkedIn ]: https://www.linkedin.com/in/emanuel-comas-402923217/
-- [ Correo ]: emanuelcomas96@gmail.com
+- [ LinkedIn ](https://www.linkedin.com/in/emanuel-comas-402923217/)
+- [ Correo ](mailto:emanuelcomas96@gmail.com)
 
 ###
 
