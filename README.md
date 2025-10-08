@@ -23,7 +23,7 @@ Python | Desarrollo web | Express | Node | SQL | Docker | Linux | CTF | SOC
 ## Contact
 
 - [ LinkedIn ](https://www.linkedin.com/in/emanuel-comas-402923217/)
-- [Correo](mailto:emanuelcomas96@gmail.com)
+- Correo: emanuelcomas96@gmail.com
 
 ###
 
