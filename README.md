@@ -7,7 +7,7 @@
 ###
 
 ## Technologies
-Python | Desarrollo web | Express | Node | SQL | Docker | Linux | CTF | SOC
+Python | Desarrollo web | Express | Node | ReactNative | SQL | Docker | Linux | CTF | SOC
 
 ###
 
